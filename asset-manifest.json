@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ottergram-react-class/static/css/main.38acb2cd.css",
+    "main.js": "/Ottergram-react-class/static/js/main.438c0343.js",
+    "static/js/787.4ee79baa.chunk.js": "/Ottergram-react-class/static/js/787.4ee79baa.chunk.js",
+    "static/media/otter1.jpg": "/Ottergram-react-class/static/media/otter1.a2a24a973700a6108dad.jpg",
+    "static/media/otter4.jpg": "/Ottergram-react-class/static/media/otter4.43fea2549a1c1101ac58.jpg",
+    "static/media/otter3.jpg": "/Ottergram-react-class/static/media/otter3.a750159dae8ab8f3c3f1.jpg",
+    "static/media/otter2.jpg": "/Ottergram-react-class/static/media/otter2.ea0175b8485a045a4de7.jpg",
+    "static/media/otter5.jpg": "/Ottergram-react-class/static/media/otter5.d4bad69f7cb5fda1ba0b.jpg",
+    "index.html": "/Ottergram-react-class/index.html",
+    "main.38acb2cd.css.map": "/Ottergram-react-class/static/css/main.38acb2cd.css.map",
+    "main.438c0343.js.map": "/Ottergram-react-class/static/js/main.438c0343.js.map",
+    "787.4ee79baa.chunk.js.map": "/Ottergram-react-class/static/js/787.4ee79baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38acb2cd.css",
+    "static/js/main.438c0343.js"
+  ]
+}
